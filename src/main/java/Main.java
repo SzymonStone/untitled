@@ -11,5 +11,6 @@ public class Main {
         System.out.println(driver.getTitle());
         WebElement element = driver.findElement(By.className("sb-destination__input"));
         System.out.println(element.getAttribute("placeholder"));
+        //hthhytntyjtu7j
     }
 }
